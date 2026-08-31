@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-31 16:37">
+<shop>
+<name>Echo UA</name>
+<company>Echo UA</company>
+<url>https://prom.ua/</url>
+<currencies>
+  <currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+  <category id="152935935">CD, DVD, Касети</category>
+  <category id="150907610">Вінілові платівки</category>
+</categories>
+<offers>
+  <offer id="25978153" available="true">
+    <name>Frank Ocean — Blond | Виниловая пластинка 2LP</name>
+    <name_ua>Frank Ocean — Blond | Вінілова платівка 2LP</name_ua>
+    <categoryId>150907610</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://i.discogs.com/Ez7clPRUq3qWoERDaSTLrZSvKxt9EtS15PadDR2U3Zo/rs:fit/g:sm/q:90/h:557/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2OTY5Njc4/MjUtOTgyMi5wbmc.jpeg</picture>
+    <picture>https://i.discogs.com/V6ijauGFXN7jAys97996EyzyTlj-gT2N-XJHjGO3K5g/rs:fit/g:sm/q:90/h:600/w:575/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM4/NzQtNzY5MS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/F9WUeaqxWcS6zNdsrRSovFHOQQNbEDWfmz0w37T34hE/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MTAtNDcyNy5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/u0PJlHJKbMDQ3rjePRP0pW121Nq1-L0g3XQcaNEfqJc/rs:fit/g:sm/q:90/h:228/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MDAtNTI4NS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/aQVJQ9WRjy8EQwyzmjOaXX7S1Iaz7EhDylgVxGW4ilg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MDQtODQ4My5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/TXY-S19afnrIrVZ4WwmgihPHuEpIW56_rURS0fWywgE/rs:fit/g:sm/q:90/h:347/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MDQtNDczMy5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/GrL9MvFI5XiDM1VkvWdegLBCZD8mEVNRjrzIVth6KqI/rs:fit/g:sm/q:90/h:179/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MDQtNjkxNi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/BuibU2y_aV9MwFWNeor1Da6fa89PxIlgbRYSc5fin3E/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/MTEtNzQ5Mi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/xzJ6ifaln0xdCK6f0JO4Z8S2MEIsrM07cwVLYzuuA5U/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/NDItNjkyNy5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/tJRkd8EgRxdjYs-4qpbI8p0mMaJso5f8sJ4VffOD26o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1OTc4/MTUzLTE2NzU0MzM5/NDItMjM5NS5qcGVn.jpeg</picture>
+    <description><![CDATA[«Blonde» — второй студийный альбом Фрэнка Оушена, вышедший в 2016 году и мгновенно ставший одним из важнейших музыкальных высказываний десятилетия. Семнадцать треков — это поток сознания, где R&B переплетается с электроникой, хип-хопом и поп-атмосферой, а каждая композиция существует словно в собственном пространстве и времени. Никаких лишних слов — только эмоция и текстура звука.
+
+Виниловое издание создано для настоящих поклонников альбома: материал распределён на четыре стороны двух пластинок, что позволяет слушать без спешки — именно так, как и заслуживает музыка Оушена. Обращаем внимание: согласно примечаниям с Discogs, это неофициальное прессование с лейблами в стиле Мэрилин Монро; нарезка матриц грубо воспроизводит оригинальные референсы Optimal Media. Покупайте осознанно.
+
+Издано лейблом XL Recordings в 2016 году. Жанровый диапазон — Hip Hop, Funk / Soul, Pop / Contemporary R&B.
+
+**Участники записи:** информация об участниках записи для данного издания не указана.
+
+---
+**Треклист:**
+
+Сторона A:
+A1 Nikes
+A2 Ivy
+A3 Pink + White
+A4 Be Yourself
+
+Сторона B:
+B1 Solo
+B2 Skyline To
+B3 Self Control
+B4 Good Guy
+B5 Nights
+
+Сторона C:
+C1 Solo (Reprise)
+C2 Pretty Sweet
+C3 Facebook Story
+C4 Close To You
+C5 White Ferrari
+
+Сторона D:
+D1 Seigfried
+D2 Godspeed
+D3 Futura Free]]></description>
+    <description_ua><![CDATA[«Blonde» — другий студійний альбом Френка Оушена, який вийшов у 2016 році і одразу став одним із найважливіших музичних висловлювань десятиліття. Сімнадцять треків — це потік свідомості, де R&B переплітається з електронікою, хіп-хопом та поп-атмосферою, а кожна композиція існує немов у власному просторі та часі. Ніяких зайвих слів, лише емоція і текстура звуку.
+
+Вінілове видання розраховане на справжніх прихильників альбому: матеріал розподілений на чотири сторони двох платівок, що дозволяє слухати без поспіху — так, як цього і заслуговує музика Оушена. Звертаємо увагу: згідно з нотатками з Discogs, це неофіційне пресування з лейблами у стилі Мерилін Монро; вирізання матриць грубо відтворює оригінальні референси Optimal Media. Купуйте усвідомлено.
+
+Видано лейблом XL Recordings у 2016 році. Жанровий діапазон — Hip Hop, Funk / Soul, Pop / Contemporary R&B.
+
+**Учасники запису:** інформація про учасників запису для цього видання не вказана.
+
+---
+**Треклист:**
+
+Сторона A:
+A1 Nikes
+A2 Ivy
+A3 Pink + White
+A4 Be Yourself
+
+Сторона B:
+B1 Solo
+B2 Skyline To
+B3 Self Control
+B4 Good Guy
+B5 Nights
+
+Сторона C:
+C1 Solo (Reprise)
+C2 Pretty Sweet
+C3 Facebook Story
+C4 Close To You
+C5 White Ferrari
+
+Сторона D:
+D1 Seigfried
+D2 Godspeed
+D3 Futura Free]]></description_ua>
+    <keywords>Фрэнк-Оушен, Frank-Ocean, Blonde-винил, 2LP, виниловая-пластинка, хип-хоп, R&amp;B, XL-Recordings, альбом-2016, соул, поп, неофициальное-прессование, купить-винил, музыка-2010х</keywords>
+    <keywords_ua>Френк-Оушен, Frank-Ocean, Blonde-вініл, 2LP, вінілова-платівка, хіп-хоп, R&amp;B, XL-Recordings, альбом-2016, соул, поп, неофіційне-пресування, купити-вініл, музика-2010х</keywords_ua>
+    <param name="Лейбл">XL Recordings (2)</param>
+    <param name="Рік видання">2016</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Hip Hop / R&amp;B / Soul</param>
+    <param name="Мова видання">Англійська</param>
+    <param name="Стан">Новий</param>
+    <param name="Упаковка">Коробка</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">17.0</width>
+      <height unit="cm">12.0</height>
+      <length unit="cm">9.0</length>
+    </dimensions>
+  </offer>
+  <offer id="1184135" available="true">
+    <name>Radiohead – In Rainbows (CD, Europe, 2007, XL Recordings)</name>
+    <name_ua>Radiohead – In Rainbows (CD, Europe, 2007, XL Recordings)</name_ua>
+    <categoryId>152935935</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://i.discogs.com/4zfl_jYOVDHA7z2x2LY_gxaJkpSvft4ND77UfugwVoo/rs:fit/g:sm/q:90/h:535/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTIwNTY2OTY4/Mi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/P3YsNmu3FnUPaClQibUrA_jQfPofiluQDUhjAXwTpaw/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTIwNTY2OTcw/MC5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/16iaoCJQzgVIrxa7eEu9EXuji6XTDru1BqV5ntFFzCc/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTIwNTY2OTcx/OC5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/AzcRF38AziBmLEl6N_9PcAH7JdjCo8S1iIfymAK7cjc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTY0NzM4MDQz/OC00MzM1LmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/b5GCm8-0LQ0quMYDF21930wbiRqRWKrBGeWCo6ZSbEQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTQ1ODczNjc5/NC00Nzc5LmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/C1QdygziJ2-0xTIyL4WgeIX_ypE8mjkLBJeuYxWEuJw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTc1Mzg1Njkz/Ni04MjEwLmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/GTf28Zbvl3A7Ap5Nwgit-WGJLK9crS0JKUTpeuOV_uI/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTc1Mzg1Njk0/My0zOTgzLmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/uHyVtMAZqQmh4R5fswQDK1Yqqxxf8bIBOAphalnMVFg/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTc1Mzg1Njk0/MC05NjE2LmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/0L2gksfWfKcbJrSp0jJRj--PXhAMQofuz0YxdGPdTso/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTc1Mzg1Njk0/MC04NTg4LmpwZWc.jpeg</picture>
+    <picture>https://i.discogs.com/4oDaUn6uvbT1Bg5HplAszebbINJpIRaqF5Bx4Ki-bJQ/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExODQx/MzUtMTc1Mzg1Njk0/MC0zNTM5LmpwZWc.jpeg</picture>
+    <description><![CDATA[«In Rainbows» — седьмой студийный альбом Radiohead, вошедший в историю не только как музыкальное высказывание, но и как смелый эксперимент с самой моделью распространения музыки. Сначала он вышел в 2007 году в формате «заплати сколько хочешь» через собственный сайт группы, а затем появился на физических носителях через лейбл XL Recordings. Этот CD — именно то издание, которое можно держать в руках.
+
+Музыкально альбом стал точкой равновесия между холодной электроникой предыдущих работ и живым, телесным звуком. Thom Yorke, братья Гринвуды, Эд О'Брайен и Фил Селвей звучат здесь удивительно слаженно — без лишнего пафоса, но с огромным внутренним напряжением. Треки «Weird Fishes/Arpeggi», «Reckoner» и «All I Need» давно стали каноническими, тогда как «Videotape» закрывает пластинку с почти болезненной простотой. Сведение и продюсирование — Nigel Godrich, мастеринг — легендарный Bob Ludwig.
+
+Издание оформлено в раскладном картонном конверте с 16-страничным буклетом. Арт-дирекция — неизменный творческий партнёр группы Stanley Donwood и Dr Tchock. Отдельная деталь — набор наклеек в духе «сделай сам» для тех, кто хочет вставить диск в стандартный jewel case и персонализировать его по своему вкусу.
+
+**Участники записи:**
+Musicians (Radiohead): Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Phil Selway
+Produced & Mixed By: Nigel Godrich
+Pre-production: Graeme Stewart
+Engineers: Dan Grech-Marguerat, Hugo Nicolson, Nigel Godrich, Richard Woodcraft
+Mastered By: Bob Ludwig
+Strings: The Millennia Ensemble (led by Everton Nelson, conducted by Sally Herbert)
+Artwork: Stanley Donwood, Dr Tchock
+Management: Courtyard Management (Brian Message, Bryce Edge, Chris Hufford, Julie Calland)
+Written By: Radiohead
+Published By: Warner Chappell Music Publishing Ltd
+
+**Треклист:**
+1. 15 Step
+2. Bodysnatchers
+3. Nude
+4. Weird Fishes/Arpeggi
+5. All I Need
+6. Faust Arp
+7. Reckoner
+8. House Of Cards
+9. Jigsaw Falling Into Place
+10. Videotape]]></description>
+    <description_ua><![CDATA[«In Rainbows» — сьомий студійний альбом Radiohead, який увійшов в історію не лише як музичне висловлювання, а й як сміливий експеримент із самою моделлю розповсюдження музики. Спочатку він вийшов у 2007 році у форматі «заплати скільки хочеш» через власний сайт гурту, а вже потім з'явився на фізичних носіях через лейбл XL Recordings. Цей CD — саме те видання, яке можна тримати в руках.
+
+Музично альбом став точкою рівноваги між холодною електронікою попередніх робіт і живим, тілесним звуком. Thom Yorke, брати Грінвуди, Ед О'Браєн і Філ Селвей звучать тут напрочуд злагоджено — без зайвого пафосу, але з величезною внутрішньою напругою. Треки «Weird Fishes/Arpeggi», «Reckoner» і «All I Need» давно стали канонічними, тоді як «Videotape» закриває платівку з майже болючою простотою. Зведення та продюсування — Nigel Godrich, мастеринг — легендарний Bob Ludwig.
+
+Видання оформлене у розкладному картонному конверті з 16-сторінковим буклетом. Арт-дирекція — незмінний творчий партнер гурту Stanley Donwood та Dr Tchock. Окремою деталлю є набір наклейок у стилі «зроби сам» — для тих, хто хоче вставити диск у стандартний jewel case і персоналізувати його на власний смак.
+
+**Учасники запису:**
+Musicians (Radiohead): Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Phil Selway
+Produced & Mixed By: Nigel Godrich
+Pre-production: Graeme Stewart
+Engineers: Dan Grech-Marguerat, Hugo Nicolson, Nigel Godrich, Richard Woodcraft
+Mastered By: Bob Ludwig
+Strings: The Millennia Ensemble (led by Everton Nelson, conducted by Sally Herbert)
+Artwork: Stanley Donwood, Dr Tchock
+Management: Courtyard Management (Brian Message, Bryce Edge, Chris Hufford, Julie Calland)
+Written By: Radiohead
+Published By: Warner Chappell Music Publishing Ltd
+
+**Треклист:**
+1. 15 Step
+2. Bodysnatchers
+3. Nude
+4. Weird Fishes/Arpeggi
+5. All I Need
+6. Faust Arp
+7. Reckoner
+8. House Of Cards
+9. Jigsaw Falling Into Place
+10. Videotape]]></description_ua>
+    <keywords>radiohead, in-rainbows, CD, альтернативный-рок, арт-рок, инди-рок, электронная-музыка, XL-Recordings, Nigel-Godrich, Stanley-Donwood, 2007, британская-музыка, экспериментальный-рок, купить-CD</keywords>
+    <keywords_ua>radiohead, in-rainbows, CD, альтернативний-рок, арт-рок, інді-рок, електронна-музика, XL-Recordings, Nigel-Godrich, Stanley-Donwood, 2007, британська-музика, експериментальний-рок, купити-CD</keywords_ua>
+    <param name="Лейбл">XL Recordings</param>
+    <param name="Рік видання">2007</param>
+    <country>Europe</country>
+    <param name="Носій інформації">CD</param>
+    <param name="Жанр">Rock</param>
+    <param name="Мова видання">Англійська</param>
+    <param name="Стан">Новий</param>
+    <param name="Упаковка">Коробка</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">17.0</width>
+      <height unit="cm">12.0</height>
+      <length unit="cm">9.0</length>
+    </dimensions>
+  </offer>
+</offers>
+</shop>
+</yml_catalog>
