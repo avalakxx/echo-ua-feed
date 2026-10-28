@@ -1,27 +1,287 @@
-Обробляю Balka Book (https://balka-book.com/ua/rock-2119/tool-undertow-2lp-reissue-vinyl-253188)...
-  (cloudscraper не спрацював, відкриваю справжній браузер через Selenium - трохи повільніше...)
-  -> готово: Tool – Undertow (2LP, Vinyl, Reissue)
-Обробляю Balka Book (https://balka-book.com/ua/rock-2119/tool-tales-from-the-dark-side-lp-single-compilation-blue-marbled-vinyl-343745)...
-  (cloudscraper не спрацював, відкриваю справжній браузер через Selenium - трохи повільніше...)
-  -> готово: Tool – Tales From The Dark Side (LP, Blue Marbled Vinyl)
-Обробляю Balka Book (https://balka-book.com/ua/rock-2119/tool_fear_inoculum_vinyl-199646)...
-  (cloudscraper не спрацював, відкриваю справжній браузер через Selenium - трохи повільніше...)
-  -> готово: Tool – Fear Inoculum (LP, Vinyl)
-Обробляю Balka Book (https://balka-book.com/ua/rock-2119/rammstein-rammstein-live-1996-2023-lp-album-compilation-limited-edition-picture-disc-stereo-vinyl-306169)...
-  (cloudscraper не спрацював, відкриваю справжній браузер через Selenium - трохи повільніше...)
-  -> готово: Rammstein – Rammstein Live 1996-2023 (LP, Vinyl, Limited Edition, Picture Disc)
-Обробляю Balka Book (https://balka-book.com/ua/electronic-2116/gorillaz-harlem-new-york-2006-lp-picture-disc-vinyl-343744)...
-  (cloudscraper не спрацював, відкриваю справжній браузер через Selenium - трохи повільніше...)
-  -> готово: Gorillaz – Harlem New York 2006 (LP, Vinyl)
-Обробляю 38085357 (https://www.discogs.com/release/38085357-Queen-The-Queen-Reigns-The-World-Live-In-Mannheim-1986)...
-  -> готово: Queen – The Queen Reigns The World! Live In Mannheim 1986 (2LP, Yellow Vinyl, Limited Edition)
-Обробляю 13672483 (https://www.discogs.com/release/13672483-Queen-Rock-In-Rio)...
-  -> готово: Queen – Rock In Rio (LP, Vinyl, Limited Edition)
-Обробляю 32756073 (https://www.discogs.com/release/32756073-Taylor-Swift-Lucky-13-Another-One-For-The-Swifties)...
-  -> готово: Taylor Swift – Lucky 13 (Another One For The Swifties) (LP, Gold Vinyl, Limited Edition, Numbered)
-Обробляю 36803566 (https://www.discogs.com/release/36803566-Miley-Cyrus-The-Tennessee-Queen)...
-  -> готово: Miley Cyrus – The Tennessee Queen (LP, Pink Marbled Vinyl)
-
-Готово! Фід з 9 товар(ами) збережено у feed_echohits.xml
-Далі: залий цей файл на хостинг з постійним посиланням
-і вкажи посилання в кабінеті Prom.ua (Товари -> Імпорт -> За посиланням).
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-28 14:22">
+<shop>
+<name>Echo Hits</name>
+<company>Echo Hits</company>
+<url>https://echohits.prom.ua/</url>
+<currencies>
+  <currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+  <category id="153143973">Виниловые пластинки</category>
+  <category id="153227710" parentId="153143973">Rock</category>
+  <category id="153227714" parentId="153143973">Pop</category>
+  <category id="153389497" parentId="153143973">Jazz</category>
+  <category id="153256936" parentId="153143973">Electronic</category>
+  <category id="153708511" parentId="153143973">Classical</category>
+  <category id="153279478" parentId="153143973">Hip Hop</category>
+  <category id="154006233" parentId="153143973">Folk</category>
+  <category id="153623236" parentId="153143973">Soundtrack</category>
+</categories>
+<offers>
+  <offer id="tool-undertow" available="true">
+    <name>Tool – Undertow (2LP, Vinyl, Reissue)</name>
+    <name_ua>Tool – Undertow (2LP, Vinyl, Reissue)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>614223105215</barcode>
+    <picture>https://balka-book.com/files/2023/08_06/12_37/u_files_store_7_193.jpg</picture>
+    <picture>https://balka-book.com/files/2026/02_03/19_01/u_files_store_1_2731317.png</picture>
+    <picture>https://balka-book.com/files/2023/08_06/12_37/u_files_store_7_194.jpg</picture>
+    <picture>https://balka-book.com/files/2023/08_06/12_37/u_files_store_7_195.jpg</picture>
+    <picture>https://balka-book.com/files/2023/08_06/12_37/u_files_store_7_196.jpg</picture>
+    <picture>https://balka-book.com/files/2026/02_03/19_01/u_files_store_1_2731319.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>«Undertow» — дебютный полноформатный альбом американской рок-группы Tool, выпущенный в 1993 году на лейбле Zoo Entertainment. Пластинка сразу заявила о группе как об одной из самых смелых и мощных сил в тяжёлой музыке 90-х: миллионные тиражи, культовый статус и влияние на целые поколения музыкантов — всё это началось именно здесь. Издание 2017 года от Zoo Entertainment позволяет услышать этот альбом в формате, для которого он и создавался — на виниле.</p><p>Музыка Tool на «Undertow» — это плотное переплетение прогрессивного метала, альтернативного рока и арт-рока с характерным для группы мрачным, психологически напряжённым звучанием. Треки «Sober», «Prison Sex» и «Intolerance» демонстрируют фирменный подход Tool: сложные ритмические структуры, вязкие гитарные риффы Адама Джонса и пронзительный вокал Мейнарда Джеймса Кинана. Сторона D целиком отведена под «Disgustipated» — почти шестнадцатиминутный экспериментальный трек, который по сей день остаётся предметом обсуждения среди фанатов.</p><p>Формат двойного винила (2LP) позволяет распределить материал по четырём сторонам без сжатия динамики, сохраняя всю глубину и объём оригинальной записи. Это издание — отличная возможность добавить в свою коллекцию один из ключевых альбомов альтернативного метала в формате аналогового звука.<br><br><b>Треклист:</b><br>A1 - Intolerance<br>A2 - Prison Sex<br>A3 - Sober<br>B1 - Bottom<br>B2 - Crawl Away<br>B3 - Swamp Song<br>C1 - Undertow<br>C2 - 4°<br>C3 - Flood<br>D1 - Disgustipated</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>«Undertow» — дебютний повноформатний альбом американського рок-гурту Tool, випущений 1993 року на лейблі Zoo Entertainment. Платівка одразу заявила про гурт як про одну з найсміливіших і найпотужніших сил у важкій музиці 90-х: мільйонні тиражі, культовий статус і вплив на цілі покоління музикантів — усе це почалося саме тут. Видання 2017 року від Zoo Entertainment дозволяє почути цей альбом у форматі, для якого він і створювався — на вінілі.</p><p>Музика Tool на «Undertow» — це щільне переплетення прогресивного металу, альтернативного року та арт-року з характерним для гурту похмурим, психологічно напруженим звучанням. Треки на кшталт «Sober», «Prison Sex» та «Intolerance» демонструють фірмовий підхід Tool: складні ритмічні структури, в'язкі гітарні риффи Адама Джонса та пронизливий вокал Мейнарда Джеймса Кінана. Сторона D цілком відведена під «Disgustipated» — майже шістнадцятихвилинний експериментальний трек, який і досі залишається предметом обговорення серед фанатів.</p><p>Формат подвійного вінілу (2LP) дозволяє розподілити матеріал по чотирьох сторонах без стиснення динаміки, зберігаючи всю глибину та об'єм оригінального запису. Це видання — чудова можливість додати до своєї колекції один із ключових альбомів альтернативного металу у форматі аналогового звуку.<br><br><b>Треклист:</b><br>A1 - Intolerance<br>A2 - Prison Sex<br>A3 - Sober<br>B1 - Bottom<br>B2 - Crawl Away<br>B3 - Swamp Song<br>C1 - Undertow<br>C2 - 4°<br>C3 - Flood<br>D1 - Disgustipated</p>]]></description_ua>
+    <keywords>Tool – Undertow, Tool Undertow, Tool, Undertow, Undertow Tool, Tool Undertow на вінілі, Tool на вінілі, вініл Tool Undertow, Tool Undertow вініл, платівка Tool Undertow, Tool Undertow платівка, вінілова платівка Tool Undertow, Tool Undertow вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, undertow, zoo entertainment</keywords>
+    <keywords_ua>Tool – Undertow, Tool Undertow, Tool, Undertow, Undertow Tool, Tool Undertow на вінілі, Tool на вінілі, вініл Tool Undertow, Tool Undertow вініл, платівка Tool Undertow, Tool Undertow платівка, вінілова платівка Tool Undertow, Tool Undertow вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, undertow, zoo entertainment</keywords_ua>
+    <param name="Виробник">Tool</param>
+    <param name="Лейбл">Zoo Entertainment</param>
+    <param name="Рік видання">2017</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">2</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="tool-tales-from-the-dark-side" available="true">
+    <name>Tool – Tales From The Dark Side (LP, Blue Marbled Vinyl)</name>
+    <name_ua>Tool – Tales From The Dark Side (LP, Blue Marbled Vinyl)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>2000988986929</barcode>
+    <picture>https://balka-book.com/files/2026/10_02/15_39/u_files_store_20_42.jpg</picture>
+    <picture>https://balka-book.com/files/2026/10_02/15_39/u_files_store_20_43.jpg</picture>
+    <picture>https://balka-book.com/files/2026/10_02/15_39/u_files_store_20_44.jpg</picture>
+    <picture>https://balka-book.com/files/2026/10_02/15_39/u_files_store_20_45.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Tool — один из самых влиятельных коллективов в тяжёлой музыке, чьё творчество давно вышло за рамки какого-либо одного жанра. Известные масштабными концептуальными альбомами, сложными ритмическими структурами и атмосферным звучанием, они снискали культовый статус среди поклонников прогрессивного метала и альтернативной музыки по всему миру. «Tales From The Dark Side» — релиз 2026 года, выходящий под независимым лейблом Not On Label.</p><p>Музыка Tool всегда отличалась глубиной и интенсивностью: от тяжёлых гитарных риффов и полиритмических партий ударных до медитативных, трансовых пассажей. Их звучание — точка пересечения прогрессивного метала, арт-рока и психоделии, идеальный выбор для тех, кто ценит музыку, требующую внимательного и вдумчивого слушания.</p><p>Виниловый формат раскрывает фирменное звучание группы в полной мере: объёмный бас, детализированные текстуры и динамический диапазон, которые цифровые носители передают лишь частично. Пластинка станет достойным дополнением к коллекции любого ценителя качественного звука и современного тяжёлого рока.</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Tool — один із найвпливовіших гуртів у важкій музиці, чия творчість давно вийшла за межі будь-якого одного жанру. Відомі своїми масштабними концептуальними альбомами, складними ритмічними структурами та атмосферним звучанням, вони здобули культовий статус серед шанувальників прогресивного металу та альтернативної музики по всьому світу. «Tales From The Dark Side» — реліз 2026 року, що виходить під незалежним лейблом Not On Label.</p><p>Музика Tool завжди відрізнялася глибиною та інтенсивністю: від важких гітарних риффів і поліритмічних партій ударних до медитативних, трансових пасажів. Їхнє звучання є точкою перетину прогресивного металу, арт-року та психоделії — ідеальний вибір для тих, хто цінує музику, що вимагає уважного й вдумливого слухання.</p><p>Вініловий формат розкриває фірмове звучання гурту повною мірою: об'ємний бас, деталізовані текстури та динамічний діапазон, які цифрові носії передають лише частково. Платівка стане гідним доповненням до колекції будь-якого поціновувача якісного звуку та сучасного важкого року.</p>]]></description_ua>
+    <keywords>Tool – Tales From The Dark Side, Tool Tales From The Dark Side, Tool, Tales From The Dark Side, Tales From The Dark Side Tool, Tool Tales From The Dark Side на вінілі, Tool на вінілі, вініл Tool Tales From The Dark Side, Tool Tales From The Dark Side вініл, платівка Tool Tales From The Dark Side, Tool Tales From The Dark Side платівка, вінілова платівка Tool Tales From The Dark Side, Tool Tales From The Dark Side вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, tales from the dark side, not on label</keywords>
+    <keywords_ua>Tool – Tales From The Dark Side, Tool Tales From The Dark Side, Tool, Tales From The Dark Side, Tales From The Dark Side Tool, Tool Tales From The Dark Side на вінілі, Tool на вінілі, вініл Tool Tales From The Dark Side, Tool Tales From The Dark Side вініл, платівка Tool Tales From The Dark Side, Tool Tales From The Dark Side платівка, вінілова платівка Tool Tales From The Dark Side, Tool Tales From The Dark Side вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, tales from the dark side, not on label</keywords_ua>
+    <param name="Виробник">Tool</param>
+    <param name="Лейбл">Not On Label</param>
+    <param name="Рік видання">2026</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="tool-fear-inoculum" available="true">
+    <name>Tool – Fear Inoculum (LP, Vinyl)</name>
+    <name_ua>Tool – Fear Inoculum (LP, Vinyl)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>2000988987193</barcode>
+    <picture>https://balka-book.com/files/2023/07_27/14_38/u_files_store_21_16.jpg</picture>
+    <picture>https://balka-book.com/files/2023/07_27/14_38/u_files_store_21_17.jpg</picture>
+    <picture>https://balka-book.com/files/2023/07_27/14_38/u_files_store_21_18.jpg</picture>
+    <picture>https://balka-book.com/files/2025/10_28/11_29/u_files_store_1_2516343.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>«Fear Inoculum» — долгожданный альбом американского рок-гиганта Tool, вышедший в 2019 году после тринадцатилетней паузы с момента предыдущего студийного релиза. Пластинка немедленно покорила чарты по всему миру и подтвердила статус группы как одного из наиболее новаторских и самобытных авторов тяжёлой музыки. Издание на виниле от RCA Records 2020 года — это возможность услышать этот монументальный альбом в наиболее полноценном аудиоформате.</p><p>Музыка Tool на «Fear Inoculum» — масштабные, гипнотические композиции, выдержанные в духе прогрессивного метала и арт-рока. Каждый трек здесь — развёрнутое звуковое путешествие продолжительностью от пяти до почти шестнадцати минут, с плотными ритмическими рисунками, многослойными гитарными текстурами и философскими текстами. Альбом требует от слушателя полного погружения — и именно виниловый формат с его тёплым звучанием и неспешным ритуалом прослушивания подходит для этого лучше всего.</p><p>Двойной (4LP) виниловый выпуск позволяет разместить весь массив музыки без компромиссов: каждая сторона получает по одному-два трека, что обеспечивает оптимальный уровень громкости и динамический диапазон записи. Это издание — достойное дополнение к любой серьёзной виниловой коллекции поклонника прогрессивного и тяжёлого рока.</p><p>Треклист:<br>A1 - Fear Inoculum<br>A2 - Pneuma<br>B1 - Invincible<br>B2 - Chocolate Chip Trip<br>C1 - Descending<br>C2 - Culling Voices<br>D1 - Tempest</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>«Fear Inoculum» — довгоочікуваний альбом американського рок-гіганта Tool, що вийшов у 2019 році після тринадцятирічної паузи з моменту попереднього студійного релізу. Платівка одразу підкорила чарти по всьому світу й підтвердила статус гурту як одного з найбільш новаторських і послідовних авторів важкої музики. Видання на вінілі від RCA Records 2020 року — це можливість відчути цей монументальний альбом у найбільш повноцінному аудіоформаті.</p><p>Музика Tool на «Fear Inoculum» — це масштабні, гіпнотичні композиції, витримані в дусі прогресивного металу та арт-року. Кожен трек тут — розгорнута звукова подорож тривалістю від п'яти до майже шістнадцяти хвилин, з щільними ритмічними рисунками, багатошаровими гітарними текстурами та філософськими текстами. Альбом вимагає від слухача повного занурення — і саме вініловий формат із його теплим звучанням і неспішним ритуалом прослуховування підходить для цього найкраще.</p><p>Двопластинковий (4LP) вініловий випуск дозволяє розмістити увесь масив музики без компромісів: кожна сторона отримує по одному-два треки, що забезпечує оптимальний рівень гучності та динамічний діапазон запису. Це видання — гідне доповнення до будь-якої серйозної вінілової колекції шанувальника прогресивного та важкого року.</p><p>Треклист:<br>A1 - Fear Inoculum<br>A2 - Pneuma<br>B1 - Invincible<br>B2 - Chocolate Chip Trip<br>C1 - Descending<br>C2 - Culling Voices<br>D1 - Tempest</p>]]></description_ua>
+    <keywords>Tool – Fear Inoculum, Tool Fear Inoculum, Tool, Fear Inoculum, Fear Inoculum Tool, Tool Fear Inoculum на вінілі, Tool на вінілі, вініл Tool Fear Inoculum, Tool Fear Inoculum вініл, платівка Tool Fear Inoculum, Tool Fear Inoculum платівка, вінілова платівка Tool Fear Inoculum, Tool Fear Inoculum вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, fear inoculum, rca records</keywords>
+    <keywords_ua>Tool – Fear Inoculum, Tool Fear Inoculum, Tool, Fear Inoculum, Fear Inoculum Tool, Tool Fear Inoculum на вінілі, Tool на вінілі, вініл Tool Fear Inoculum, Tool Fear Inoculum вініл, платівка Tool Fear Inoculum, Tool Fear Inoculum платівка, вінілова платівка Tool Fear Inoculum, Tool Fear Inoculum вінілова платівка, вініл, платівка, вінілова платівка, Тул, Тул вініл, Тул платівка, tool, fear inoculum, rca records</keywords_ua>
+    <param name="Виробник">Tool</param>
+    <param name="Лейбл">RCA Records</param>
+    <param name="Рік видання">2020</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <param name="Особливості видання">Unofficial Release</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="rammstein-rammstein-live-1996-2023" available="true">
+    <name>Rammstein – Rammstein Live 1996-2023 (LP, Vinyl, Limited Edition, Picture Disc)</name>
+    <name_ua>Rammstein – Rammstein Live 1996-2023 (LP, Vinyl, Limited Edition, Picture Disc)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://balka-book.com/files/2025/05_19/14_00/u_files_store_50_258.jpg</picture>
+    <picture>https://balka-book.com/files/2025/05_19/14_00/u_files_store_50_259.jpg</picture>
+    <picture>https://balka-book.com/files/2025/05_19/14_00/u_files_store_50_260.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Rammstein — один из самых влиятельных тяжёлых коллективов в мире, удерживающий планку непревзойдённого живого шоу уже несколько десятилетий. Релиз Live 1996-2023 охватывает почти три десятилетия концертной истории группы — от первых зажигательных выступлений середины 90-х до монументальных шоу начала 2020-х. Это настоящая хроника эволюции группы сквозь призму живого звука.</p><p>Музыка Rammstein — мощный сплав индустриального металла, электронных текстур и жёсткого гитарного риффа. Живые записи особенно ярко передают ту упругую, давящую энергию, которую группа генерирует на сцене, — от грозных низких частот до пронзительных соло и характерного баритона Тилля Линдеманна.</p><p>Изданный в 2024 году на виниле в формате Limited Edition, этот релиз рассчитан на настоящих ценителей аналогового звука. Виниловый формат придаёт живым записям особую теплоту и объёмность — именно так и должен звучать Rammstein: массивно, живо и без компромиссов.</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Rammstein — одне з найвпливовіших важких гуртів у світі, що вже десятиліттями тримає планку неперевершеного живого видовища. Реліз Live 1996-2023 охоплює майже три десятиліття концертної історії колективу — від перших запальних виступів середини 90-х до монументальних шоу початку 2020-х. Це справжня хроніка еволюції гурту крізь призму живого звуку.</p><p>Музика Rammstein — потужний сплав індустріального металу, електронних текстур і жорсткого гітарного риффу. Живі записи особливо яскраво передають ту пружну, пресуючу енергію, яку гурт генерує на сцені, — від грізних низьких частот до пронизливих соло і характерного баритону Тілля Ліндеманна.</p><p>Виданий у 2024 році на вінілі у форматі Limited Edition, цей реліз розрахований на справжніх поціновувачів аналогового звуку. Вініловий формат надає живим записам особливої теплоти й об'ємності — саме так і має звучати Rammstein: масивно, живо й без компромісів.</p>]]></description_ua>
+    <keywords>Rammstein – Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023, Rammstein, Rammstein Live 1996-2023, Rammstein Live 1996-2023 Rammstein, Rammstein Rammstein Live 1996-2023 на вінілі, Rammstein на вінілі, вініл Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 вініл, платівка Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 платівка, вінілова платівка Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 вінілова платівка, вініл, платівка, вінілова платівка, Рамштайн, Рамштайн вініл, Рамштайн платівка, rammstein, rammstein live 1996-2023, limited edition vinyl</keywords>
+    <keywords_ua>Rammstein – Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023, Rammstein, Rammstein Live 1996-2023, Rammstein Live 1996-2023 Rammstein, Rammstein Rammstein Live 1996-2023 на вінілі, Rammstein на вінілі, вініл Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 вініл, платівка Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 платівка, вінілова платівка Rammstein Rammstein Live 1996-2023, Rammstein Rammstein Live 1996-2023 вінілова платівка, вініл, платівка, вінілова платівка, Рамштайн, Рамштайн вініл, Рамштайн платівка, rammstein, rammstein live 1996-2023, limited edition vinyl</keywords_ua>
+    <param name="Виробник">Rammstein</param>
+    <param name="Лейбл">Limited Edition Vinyl</param>
+    <param name="Рік видання">2024</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="gorillaz-harlem-new-york-2006" available="true">
+    <name>Gorillaz – Harlem New York 2006 (LP, Vinyl)</name>
+    <name_ua>Gorillaz – Harlem New York 2006 (LP, Vinyl)</name_ua>
+    <categoryId>153143973</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>2000988986912</barcode>
+    <picture>https://balka-book.com/files/2026/09_30/20_30/u_files_store_20_33.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Gorillaz — один из наиболее новаторских проектов современной музыки, созданный Дэймоном Албарном и художником Джейми Хьюлеттом. Группа известна своим уникальным подходом к жанрам и образам: участники коллектива существуют как мультипликационные персонажи, а музыка объединяет альтернативный рок, хип-хоп, электронную и поп-музыку в единое звучание. «Harlem New York 2006» — релиз, связанный с живой деятельностью группы в тот период, когда Gorillaz находились на пике своей популярности после выхода культового альбома «Demon Days».</p><p>Этот винил вышел под лейблом Not On Label — обозначение, которое, как правило, указывает на независимый или самостоятельный выпуск, что придаёт релизу особый аутентичный характер. Подобные издания ценятся аудиофилами и поклонниками за то, что несут в себе «живой» дух эпохи без коммерческого посредничества крупных лейблов.</p><p>Виниловая пластинка — это формат, передающий звук с теплотой и глубиной, недостижимыми для цифровых носителей. Поставьте этот диск на проигрыватель — и ощутите атмосферу живого выступления Gorillaz в полном объёме аналогового звука.</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Gorillaz — один із найбільш новаторських проєктів сучасної музики, створений Деймоном Албарном та художником Джеймі Г'юлеттом. Гурт відомий своїм унікальним підходом до жанрів та образів: учасники ансамблю існують як мультиплікаційні персонажі, а музика поєднує альтернативний рок, хіп-хоп, електронну та поп-музику в єдине звучання. «Harlem New York 2006» — реліз, пов'язаний із живою діяльністю гурту в той період, коли Gorillaz перебували на піку своєї популярності після виходу знакового альбому «Demon Days».</p><p>Цей виніл вийшов під лейблом Not On Label — позначення, яке зазвичай вказує на незалежний або самостійний випуск, що надає релізу особливого автентичного характеру. Такі видання цінуються аудіофілами та шанувальниками за те, що несуть у собі «живий» дух епохи без комерційного посередництва великих лейблів.</p><p>Вінілова платівка — це формат, який передає звук із теплотою та глибиною, недосяжними для цифрових носіїв. Поставте цей диск на програвач — і відчуєте атмосферу живого виступу Gorillaz у повному обсязі аналогового звуку.</p>]]></description_ua>
+    <keywords>Gorillaz – Harlem New York 2006, Gorillaz Harlem New York 2006, Gorillaz, Harlem New York 2006, Harlem New York 2006 Gorillaz, Gorillaz Harlem New York 2006 на вінілі, Gorillaz на вінілі, вініл Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 вініл, платівка Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 платівка, вінілова платівка Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 вінілова платівка, вініл, платівка, вінілова платівка, Ґоріллаз, Ґоріллаз вініл, Ґоріллаз платівка, gorillaz, harlem new york 2006, not on label</keywords>
+    <keywords_ua>Gorillaz – Harlem New York 2006, Gorillaz Harlem New York 2006, Gorillaz, Harlem New York 2006, Harlem New York 2006 Gorillaz, Gorillaz Harlem New York 2006 на вінілі, Gorillaz на вінілі, вініл Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 вініл, платівка Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 платівка, вінілова платівка Gorillaz Harlem New York 2006, Gorillaz Harlem New York 2006 вінілова платівка, вініл, платівка, вінілова платівка, Ґоріллаз, Ґоріллаз вініл, Ґоріллаз платівка, gorillaz, harlem new york 2006, not on label</keywords_ua>
+    <param name="Виробник">Gorillaz</param>
+    <param name="Лейбл">Not On Label</param>
+    <param name="Рік видання">2026</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Alternative/Electronic/Hip-Hop</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="38085357" available="true">
+    <name>Queen – The Queen Reigns The World! Live In Mannheim 1986 (2LP, Yellow Vinyl, Limited Edition)</name>
+    <name_ua>Queen – The Queen Reigns The World! Live In Mannheim 1986 (2LP, Yellow Vinyl, Limited Edition)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>0602561561275</barcode>
+    <picture>https://i.discogs.com/hvI1zF4t2FM3mBUAxuiINT0DQ4O7_o5l3WhAKQT3XcI/rs:fit/g:sm/q:90/h:579/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDg1/MzU3LTE3ODYxMTY4/NzItNjIwMi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/rEbkf-mXWe4qyBG-cI4Hq0oDncVmclZ8wMJF2P1AqII/rs:fit/g:sm/q:90/h:566/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MDg1/MzU3LTE3ODYxMTY4/NzItODYxNS5qcGVn.jpeg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>21 июня 1986 года на площадке Maimarktgelände в Мангейме (Германия) Queen выступили в рамках своего легендарного тура Magic Tour — последнего масштабного турне группы с участием Фредди Меркьюри. Именно эти концерты вошли в золотой фонд рок-сцены 80-х: масштаб, энергетика и взаимодействие Фредди с десятками тысяч зрителей оставили след в истории музыки. Запись фиксирует полный сет того вечера — от гимнического One Vision до торжественного We Are The Champions.</p><p>Музыка Queen образца 1986 года — это arena rock в чистейшем виде: мощные гитарные рифы Брайана Мэя, ритм-секция Тейлора и Дикона и, конечно, безупречный вокал Меркьюри, превращавший каждый стадион в театр одного актёра. Сетлист охватывает все ключевые хиты разных эпох группы — от классических Bohemian Rhapsody и Seven Seas Of Rhye до тогдашних новинок A Kind Of Magic и Who Wants To Live Forever, а также рок-н-ролльные камео Tutti Frutti и Hello Mary Lou.</p><p>Издание вышло под лейблом Dear Boss в 2026 году на цветном виниле тиражом 300 экземпляров. Пластинка содержит гравированные матричные надписи (etched runouts), что свидетельствует о тщательном подходе к производству. Издание рассчитано на поклонников живого звука Queen и настоящего аналогового воспроизведения.</p><p>Треклист:<br>A1 - One Vision<br>A2 - Tie Your Mother Down<br>A3 - In The Lap Of The Gods... Revisited<br>A4 - Seven Seas Of Rhye<br>A5 - Tear It Up<br>A6 - A Kind Of Magic / Day-O<br>A7 - Under Pressure<br>B1 - Another One Bites The Dust<br>B2 - Who Wants To Live Forever<br>B3 - I Want To Break Free<br>B4 - Impromptu / Gimme Some Lovin'<br>B5 - Now I'm Here<br>C1 - Love Of My Life<br>C2 - Is This The World We Created?<br>C3 - You're So Square (Baby I Don't Care)<br>C4 - Hello Mary Lou<br>C5 - Tutti Frutti<br>C6 - Bohemian Rhapsody<br>C7 - Hammer To Fall<br>D1 - Crazy Little Thing Called Love<br>D2 - Radio Ga Ga<br>D3 - We Will Rock You<br>D4 - Friends Will Be Friends<br>D5 - We Are The Champions<br>D6 - God Save The Queen</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>21 червня 1986 року на майданчику Maimarktgelände у Мангаймі (Німеччина) Queen зіграли один із концертів свого легендарного турне Magic Tour — останнього великого туру гурту за участі Фредді Мерк'юрі. Саме ці виступи увійшли до золотого фонду рок-сцени 80-х: масштаб, енергетика та взаємодія Фредді з десятками тисяч глядачів залишили слід в історії музики. Цей запис фіксує повний сет того вечора — від гімнічного One Vision до урочистого We Are The Champions.</p><p>Музика Queen зразка 1986 року — це arena rock у найчистішому вигляді: потужні гітарні рифи Браяна Мея, ритм-секція Тейлора та Діконa і, звісно, бездоганний вокал Мерк'юрі, який перетворював кожен стадіон на театр одного актора. Сетліст охоплює всі ключові хіти різних ер гурту — від класичного Bohemian Rhapsody і Seven Seas Of Rhye до тодішніх новинок A Kind Of Magic і Who Wants To Live Forever, а також рок-н-рольні камео Tutti Frutti та Hello Mary Lou.</p><p>Видання вийшло під лейблом Dear Boss у 2026 році на кольоровому вінілі тиражем 300 примірників. Платівка містить гравіровані матричні написи (etched runouts), що є ознакою ретельного підходу до виробництва. Видання розраховане на шанувальників живого звуку Queen і справжнього аналогового відтворення.</p><p>Треклист:<br>A1 - One Vision<br>A2 - Tie Your Mother Down<br>A3 - In The Lap Of The Gods... Revisited<br>A4 - Seven Seas Of Rhye<br>A5 - Tear It Up<br>A6 - A Kind Of Magic / Day-O<br>A7 - Under Pressure<br>B1 - Another One Bites The Dust<br>B2 - Who Wants To Live Forever<br>B3 - I Want To Break Free<br>B4 - Impromptu / Gimme Some Lovin'<br>B5 - Now I'm Here<br>C1 - Love Of My Life<br>C2 - Is This The World We Created?<br>C3 - You're So Square (Baby I Don't Care)<br>C4 - Hello Mary Lou<br>C5 - Tutti Frutti<br>C6 - Bohemian Rhapsody<br>C7 - Hammer To Fall<br>D1 - Crazy Little Thing Called Love<br>D2 - Radio Ga Ga<br>D3 - We Will Rock You<br>D4 - Friends Will Be Friends<br>D5 - We Are The Champions<br>D6 - God Save The Queen</p>]]></description_ua>
+    <keywords>Queen – The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986, Queen, The Queen Reigns The World! Live In Mannheim 1986, The Queen Reigns The World! Live In Mannheim 1986 Queen, Queen The Queen Reigns The World! Live In Mannheim 1986 на вінілі, Queen на вінілі, вініл Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 вініл, платівка Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 платівка, вінілова платівка Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 вінілова платівка, вініл, платівка, вінілова платівка, Куін, Куін вініл, Куін платівка, queen, the queen reigns the world! live in mannheim 1986, dear boss., Rock, Arena Rock</keywords>
+    <keywords_ua>Queen – The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986, Queen, The Queen Reigns The World! Live In Mannheim 1986, The Queen Reigns The World! Live In Mannheim 1986 Queen, Queen The Queen Reigns The World! Live In Mannheim 1986 на вінілі, Queen на вінілі, вініл Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 вініл, платівка Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 платівка, вінілова платівка Queen The Queen Reigns The World! Live In Mannheim 1986, Queen The Queen Reigns The World! Live In Mannheim 1986 вінілова платівка, вініл, платівка, вінілова платівка, Куін, Куін вініл, Куін платівка, queen, the queen reigns the world! live in mannheim 1986, dear boss., Rock, Arena Rock</keywords_ua>
+    <param name="Виробник">Queen</param>
+    <param name="Лейбл">Dear Boss.</param>
+    <param name="Рік видання">2026</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">2</param>
+    <param name="Упаковка">Конверт</param>
+    <param name="Особливості видання">Кольоровий вініл, тираж 300 примірників</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="13672483" available="true">
+    <name>Queen – Rock In Rio (LP, Vinyl, Limited Edition)</name>
+    <name_ua>Queen – Rock In Rio (LP, Vinyl, Limited Edition)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://i.discogs.com/FFINZkpep1RzOzGKDZfmtoUC-CiHRfsXH6WGxKB0umg/rs:fit/g:sm/q:90/h:559/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NDgzLTE1NTg3Mjgy/NjctNzkxNy5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/W_FY6oJdfgeuiZJe7s-rXQC1DJHyfOVl9xKXlDa-PuI/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNjcy/NDgzLTE1ODE1Mzcz/NDgtNzQwOC5qcGVn.jpeg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Queen — один из величайших рок-коллективов в истории музыки, а концерт на фестивале Rock in Rio 11 января 1985 года стал одним из их самых легендарных выступлений. В тот вечер на сцене Cidade do Rock в Бразилии Queen играли перед 470 000 зрителей — и это шоу по сей день считается эталоном живого рок-перформанса. Издание вышло на лейбле Belgrano Discos в Аргентине.</p><p>Запись охватывает весь спектр классического звучания Queen: от мощного хард-рока ранних хитов («Tie Your Mother Down», «Keep Yourself Alive», «Liar») до арена-роковых гимнов, которые знает наизусть весь мир — «Bohemian Rhapsody», «We Will Rock You», «We Are The Champions». Саундбордовая запись обеспечивает чистый, живой звук прямо с микшерного пульта фестиваля — максимально близко к тому, что слышали музыканты на сцене.</p><p>Пластинка записана с саундборда (soundboard recording), что гарантирует прозрачность и динамику звучания, характерную для живых концертов Queen на пике их формы. Отличный выбор для ценителей живого звука и винила как формата.<br/><br/>Трек-лист:<br/>A1 - Tie Your Mother Down<br/>A2 - Seven Seas Of Rhye<br/>A3 - Keep Yourself Alive<br/>A4 - Liar<br/>A5 - Now I'm Here<br/>A6 - Love Of My Life<br/>A7 - Hammer To Fall<br/>B1 - Bohemian Rhapsody<br/>B2 - Rádio Ga Ga<br/>B3 - I Want To Break Free<br/>B4 - We Will Rock You<br/>B5 - We Are The Champions<br/>B6 - God Save The Queen</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Queen — один із найвеличніших рок-гуртів в історії музики, і концерт на фестивалі Rock in Rio 11 січня 1985 року став одним із їхніх найлегендарніших виступів. Того вечора на сцені Cidade do Rock у Бразилії Queen зіграли для 470 000 глядачів — і цей виступ досі вважається еталоном живого рок-шоу. Видання вийшло на лейблі Belgrano Discos в Аргентині.</p><p>Запис охоплює весь спектр класичного звучання Queen: від потужного хард-року ранніх хітів («Tie Your Mother Down», «Keep Yourself Alive», «Liar») до арена-рокових гімнів, які знає напам'ять весь світ — «Bohemian Rhapsody», «We Will Rock You», «We Are The Champions». Саундбордовий запис забезпечує чистий, живий звук безпосередньо з мікшерного пульту фестивалю — максимально близько до того, що чули музиканти на сцені.</p><p>Платівка записана з саундборду (soundboard recording), що гарантує прозорість і динаміку звучання, характерну для живих концертів Queen на піку їхньої форми. Відмінний вибір для шанувальників живого звуку та вінілу як формату.<br/><br/>Треклист:<br/>A1 - Tie Your Mother Down<br/>A2 - Seven Seas Of Rhye<br/>A3 - Keep Yourself Alive<br/>A4 - Liar<br/>A5 - Now I'm Here<br/>A6 - Love Of My Life<br/>A7 - Hammer To Fall<br/>B1 - Bohemian Rhapsody<br/>B2 - Rádio Ga Ga<br/>B3 - I Want To Break Free<br/>B4 - We Will Rock You<br/>B5 - We Are The Champions<br/>B6 - God Save The Queen</p>]]></description_ua>
+    <keywords>Queen – Rock In Rio, Queen Rock In Rio, Queen, Rock In Rio, Rock In Rio Queen, Queen Rock In Rio на вінілі, Queen на вінілі, вініл Queen Rock In Rio, Queen Rock In Rio вініл, платівка Queen Rock In Rio, Queen Rock In Rio платівка, вінілова платівка Queen Rock In Rio, Queen Rock In Rio вінілова платівка, вініл, платівка, вінілова платівка, Квін, Квін вініл, Квін платівка, queen, rock in rio, belgrano discos, Rock</keywords>
+    <keywords_ua>Queen – Rock In Rio, Queen Rock In Rio, Queen, Rock In Rio, Rock In Rio Queen, Queen Rock In Rio на вінілі, Queen на вінілі, вініл Queen Rock In Rio, Queen Rock In Rio вініл, платівка Queen Rock In Rio, Queen Rock In Rio платівка, вінілова платівка Queen Rock In Rio, Queen Rock In Rio вінілова платівка, вініл, платівка, вінілова платівка, Квін, Квін вініл, Квін платівка, queen, rock in rio, belgrano discos, Rock</keywords_ua>
+    <param name="Виробник">Queen</param>
+    <param name="Лейбл">Belgrano Discos</param>
+    <param name="Рік видання">0</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="32756073" available="true">
+    <name>Taylor Swift – Lucky 13 (Another One For The Swifties) (LP, Gold Vinyl, Limited Edition, Numbered)</name>
+    <name_ua>Taylor Swift – Lucky 13 (Another One For The Swifties) (LP, Gold Vinyl, Limited Edition, Numbered)</name_ua>
+    <categoryId>153227714</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://i.discogs.com/SLzPLkZVnjS2_ywbrazdwEzDXry2gIzrdUL8ATsOFdM/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU2/MDczLTE3MzYwNDg1/NjgtNjY2Ny5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/EKObWTxSPR7Y2tqYq9syPa3Qdbiy0V6Ewro9lUuu-uQ/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU2/MDczLTE3MzYwNDg1/NjgtODU2NS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/RJJJNULmkBssEDzKhnyMvrz7neZwTdvak6sXtNKfgzg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU2/MDczLTE3MzYwNDg1/NjgtNzMzMS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/LnwIXDUvI5CPBiOOFGE7D3YBDioaHl7HKcgtWlprsQY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNzU2/MDczLTE3MzYwNDg1/NjktNzExOC5qcGVn.jpeg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Lucky 13 (Another One For The Swifties) — официальный промо-релиз Тейлор Свифт, выпущенный в 2024 году лейблом Avalon Records. В основу пластинки лёг материал с легендарного выступления на NPR Music Tiny Desk Concert, записанного в Вашингтоне 15 октября 2019 года, дополненный акустическими версиями и живыми записями, ранее выходившими в формате фанклубного промо.</p><p>Десять треков охватывают самые яркие страницы дискографии Свифт — от нежного «Lover» и напряжённого «Cruel Summer» до культового «All Too Well» и редкой «Say Don't Go» в фортепианной аранжировке. Акустический формат подачи позволяет услышать голос и музыку без лишней продакшн-оболочки — именно так, как это звучало в камерной атмосфере Tiny Desk.</p><p>Пластинка вышла тиражом 300 экземпляров и распространялась исключительно среди фанклуба — поэтому в свободной продаже встречается крайне редко. Издание подойдёт как преданным фанатам Свифт, так и ценителям качественного поп-винила с живыми и акустическими записями.</p><p>Треклист:<br>A1 - The Man<br>A2 - Lover<br>A3 - Death By A Thousand Cuts<br>A4 - All Too Well<br>A5 - Betty (Live From The 2020 Academy Of Country Music Awards)<br>B1 - Cruel Summer (Acoustic 2023 Version)<br>B2 - Style (Acoustic)<br>B3 - Out Of The Woods (Taylor's Version) (Acoustic)<br>B4 - Say Don't Go (Piano Version)<br>B5 - Now That We Don't Talk (Acoustic Version)</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Lucky 13 (Another One For The Swifties) — це офіційний промо-реліз Тейлор Свіфт, випущений у 2024 році лейблом Avalon Records. В основу платівки ліг матеріал з легендарного виступу на NPR Music Tiny Desk Concert, записаного у Вашингтоні 15 жовтня 2019 року, доповнений акустичними версіями та живими записами, що раніше виходили у форматі фанклубного промо.</p><p>Десять треків охоплюють найяскравіші сторінки дискографії Свіфт — від ніжного «Lover» і напруженого «Cruel Summer» до культового «All Too Well» і рідкісної «Say Don't Go» у фортепіанному аранжуванні. Акустичний формат подачі дозволяє почути голос і музику без зайвої продакшн-оболонки — саме так, як це звучало у камерній атмосфері Tiny Desk.</p><p>Платівка вийшла тиражем 300 примірників і поширювалася виключно серед фанклубу — тому у вільному продажу зустрічається вкрай рідко. Видання підійде як відданим фанатам Свіфт, так і поціновувачам якісного поп-вінілу з живими та акустичними записами.</p><p>Треклист:<br>A1 - The Man<br>A2 - Lover<br>A3 - Death By A Thousand Cuts<br>A4 - All Too Well<br>A5 - Betty (Live From The 2020 Academy Of Country Music Awards)<br>B1 - Cruel Summer (Acoustic 2023 Version)<br>B2 - Style (Acoustic)<br>B3 - Out Of The Woods (Taylor's Version) (Acoustic)<br>B4 - Say Don't Go (Piano Version)<br>B5 - Now That We Don't Talk (Acoustic Version)</p>]]></description_ua>
+    <keywords>Taylor Swift – Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift, Lucky 13 (Another One For The Swifties), Lucky 13 (Another One For The Swifties) Taylor Swift, Taylor Swift Lucky 13 (Another One For The Swifties) на вінілі, Taylor Swift на вінілі, вініл Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) вініл, платівка Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) платівка, вінілова платівка Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) вінілова платівка, вініл, платівка, вінілова платівка, Тейлор Свіфт, Тейлор Свіфт вініл, Тейлор Свіфт платівка, taylor swift, lucky 13 (another one for the swifties), avalon records (18), Pop</keywords>
+    <keywords_ua>Taylor Swift – Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift, Lucky 13 (Another One For The Swifties), Lucky 13 (Another One For The Swifties) Taylor Swift, Taylor Swift Lucky 13 (Another One For The Swifties) на вінілі, Taylor Swift на вінілі, вініл Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) вініл, платівка Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) платівка, вінілова платівка Taylor Swift Lucky 13 (Another One For The Swifties), Taylor Swift Lucky 13 (Another One For The Swifties) вінілова платівка, вініл, платівка, вінілова платівка, Тейлор Свіфт, Тейлор Свіфт вініл, Тейлор Свіфт платівка, taylor swift, lucky 13 (another one for the swifties), avalon records (18), Pop</keywords_ua>
+    <param name="Виробник">Taylor Swift</param>
+    <param name="Лейбл">Avalon Records (18)</param>
+    <param name="Рік видання">2024</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Pop</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <param name="Особливості видання">Тираж 300 примірників; фанклубне промо-видання</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="36803566" available="true">
+    <name>Miley Cyrus – The Tennessee Queen (LP, Pink Marbled Vinyl)</name>
+    <name_ua>Miley Cyrus – The Tennessee Queen (LP, Pink Marbled Vinyl)</name_ua>
+    <categoryId>153143973</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <picture>https://i.discogs.com/Edl8ZI7kvJsJt37atdbO_B-aGG316zzo5aN_2YaCcBg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAz/NTY2LTE3NzM3ODIw/NzAtODg5My5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/P91Xto29zneQYaiyuHREzBkzKsblca3W5JHHhEUlHkg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAz/NTY2LTE3NzM3ODIw/NjktMzA5MC5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/TuBkzNwOsee9lxTEFfWlhonOxtV6DOQ7LU9b4WX0MHU/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAz/NTY2LTE3NzM3ODIw/NzEtMTYwNi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/1JrkAN0xfhSQL7klBhuuna8R4GMkfUNDHvwMUPcWLa4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODAz/NTY2LTE3NzM3ODIw/NzItOTQzOC5qcGVn.jpeg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>«The Tennessee Queen» — неофициальный сборник живых выступлений и акустических сессий Майли Сайрус, охватывающий более десяти лет её творческого пути: от уютных «Backyard Sessions» 2012 года до яркого выступления на Super Bowl Music Fest в феврале 2022-го. Релиз выходил под собственным лейблом исполнительницы и собирает воедино самые впечатляющие живые моменты — именно те, что облетели сеть и набрали миллионы просмотров.</p><p>Репертуар пластинки охватывает широкий стилевой диапазон: кантри и фолк-корни («Jolene», «Wildflowers» вместе с Билли Рэем Сайрусом, «Man Of Constant Sorrow»), тяжёлый рок («Black Dog» на Гластонбери 2019, «Zombie» в легендарном Whisky A Go Go), поп-гимны («Wrecking Ball», «Like A Prayer») и проникновенные акустические каверы. Именно эта жанровая свобода и является визитной карточкой Майли как живой артистки.</p><p>Формат винила идеально подходит к живой природе материала: тёплое звучание пластинки подчёркивает тембр голоса исполнительницы и атмосферу каждого выступления — будь то студийное шоу Говарда Стерна или сцена Гластонбери. Издание подойдёт как поклонникам артистки, так и ценителям качественного живого звука на виниле.</p><p>Треклист:<br>A1 - Jolene (Backyard Session 2012)<br>A2 - Nothing Else Matters (Howard Stern 13 Sept 2012)<br>A3 - Wrecking Ball (Howard Stern 2017)<br>A4 - Zombie (Live Whisky A Go Go LA 18 Oct 2020)<br>A5 - Sweet Jane (MTV Unplugged 19 Oct 2020)<br>A6 - Look What They've Done To My Song (Backyard Session)<br>B1 - Summertime Sadness (Live Lounge)<br>B2 - Black Dog (Glastonbury 2019)<br>B3 - Wildflowers with Billy Ray Cyrus (Jimmy Fallon TV Show 06 Oct 2017)<br>B4 - Wrecking Ball Acoustic (Live Bambi Awards 2013)<br>B5 - Like A Prayer (Super Bowl Music Fest Feb 2022)<br>B6 - Man Of Constant Sorrow (George Clooney Tribute Show 2018)</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>«The Tennessee Queen» — неофіційна збірка живих виступів та акустичних сесій Майлі Сайрус, яка охоплює понад десять років її творчого шляху: від затишних «Backyard Sessions» 2012 року до гучного виступу на Super Bowl Music Fest у лютому 2022-го. Цей реліз виходив під власним лейблом виконавиці та збирає воєдино найбільш вражаючі живі моменти — саме ті, що облетіли мережу та здобули мільйони переглядів.</p><p>Репертуар платівки охоплює широкий стильовий діапазон: кантрі та фолк-корені («Jolene», «Wildflowers» разом із Біллі Реєм Сайрусом, «Man Of Constant Sorrow»), важкий рок («Black Dog» на Гластонбері 2019, «Zombie» у легендарному Whisky A Go Go), поп-гімни («Wrecking Ball», «Like A Prayer») та задушевні акустичні каверпи. Саме ця жанрова свобода і є візитівкою Майлі як живої артистки.</p><p>Формат вінілу ідеально пасує до живої природи матеріалу: тепле звучання пластівки підкреслює тембр голосу виконавиці та атмосферу кожного виступу — чи то студійне шоу Говарда Стерна, чи то сцена Гластонбері. Видання підійде як фанатам артистки, так і любителям якісного живого звуку на вінілі.</p><p>Треклист:<br>A1 - Jolene (Backyard Session 2012)<br>A2 - Nothing Else Matters (Howard Stern 13 Sept 2012)<br>A3 - Wrecking Ball (Howard Stern 2017)<br>A4 - Zombie (Live Whisky A Go Go LA 18 Oct 2020)<br>A5 - Sweet Jane (MTV Unplugged 19 Oct 2020)<br>A6 - Look What They've Done To My Song (Backyard Session)<br>B1 - Summertime Sadness (Live Lounge)<br>B2 - Black Dog (Glastonbury 2019)<br>B3 - Wildflowers with Billy Ray Cyrus (Jimmy Fallon TV Show 06 Oct 2017)<br>B4 - Wrecking Ball Acoustic (Live Bambi Awards 2013)<br>B5 - Like A Prayer (Super Bowl Music Fest Feb 2022)<br>B6 - Man Of Constant Sorrow (George Clooney Tribute Show 2018)</p>]]></description_ua>
+    <keywords>Miley Cyrus – The Tennessee Queen, Miley Cyrus The Tennessee Queen, Miley Cyrus, The Tennessee Queen, The Tennessee Queen Miley Cyrus, Miley Cyrus The Tennessee Queen на вінілі, Miley Cyrus на вінілі, вініл Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen вініл, платівка Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen платівка, вінілова платівка Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen вінілова платівка, вініл, платівка, вінілова платівка, Майлі Сайрус, Майлі Сайрус вініл, Майлі Сайрус платівка, miley cyrus, the tennessee queen, not on label (miley cyrus), Rock, Folk, World, &amp; Country</keywords>
+    <keywords_ua>Miley Cyrus – The Tennessee Queen, Miley Cyrus The Tennessee Queen, Miley Cyrus, The Tennessee Queen, The Tennessee Queen Miley Cyrus, Miley Cyrus The Tennessee Queen на вінілі, Miley Cyrus на вінілі, вініл Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen вініл, платівка Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen платівка, вінілова платівка Miley Cyrus The Tennessee Queen, Miley Cyrus The Tennessee Queen вінілова платівка, вініл, платівка, вінілова платівка, Майлі Сайрус, Майлі Сайрус вініл, Майлі Сайрус платівка, miley cyrus, the tennessee queen, not on label (miley cyrus), Rock, Folk, World, &amp; Country</keywords_ua>
+    <param name="Виробник">Miley Cyrus</param>
+    <param name="Лейбл">Not On Label (Miley Cyrus)</param>
+    <param name="Рік видання">0</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock/Folk/Country</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+</offers>
+</shop>
+</yml_catalog>
