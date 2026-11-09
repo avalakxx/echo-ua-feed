@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 14:02">
+<yml_catalog date="2026-11-09 14:21">
 <shop>
 <name>Echo Hits</name>
 <company>Echo Hits</company>
@@ -19,28 +19,92 @@
   <category id="153623236" parentId="153143973">Soundtrack</category>
 </categories>
 <offers>
-  <offer id="coldplay-a-head-full-of-dreams" available="true">
-    <name>Coldplay – A Head Full Of Dreams (LP, Vinyl)</name>
-    <name_ua>Coldplay – A Head Full Of Dreams (LP, Vinyl)</name_ua>
+  <offer id="drake-views" available="true">
+    <name>Drake – Views (2LP, Vinyl, Reissue)</name>
+    <name_ua>Drake – Views (2LP, Vinyl, Reissue)</name_ua>
     <categoryId>153143973</categoryId>
     <price>199</price>
     <currencyId>UAH</currencyId>
-    <barcode>5054197607448</barcode>
-    <picture>https://balka-book.com/files/2024/11_13/17_02/u_files_store_21_5.jpg</picture>
-    <picture>https://balka-book.com/files/2024/11_13/17_02/u_files_store_21_6.jpg</picture>
-    <picture>https://balka-book.com/files/2024/11_13/17_02/u_files_store_21_7.jpg</picture>
-    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>A Head Full Of Dreams от Coldplay - это альбом, в котором британская группа звучит ярко, празднично и открыто. Эту пластинку выпустил лейбл Parlophone, а носитель датирован 2024 годом. На стороне A собраны заглавный трек, Birds, Hymn For The Weekend, Everglow, Adventure Of A Lifetime и Fun, а сторона B продолжает историю композициями Kaleidoscope, Army Of One, Amazing Day, Colour Spectrum и Up &amp; Up.</p><p>Это музыка для тех, кто любит широкие мелодии, светлые припевы и эмоциональные кульминации. Треки здесь плавно переходят один в другой, поэтому альбом хорошо слушать целиком, от первой до последней композиции: от энергичного начала до торжественного финала.</p><p>Винил - формат, в котором такой альбом раскрывается лучше всего: вы ставите пластинку на проигрыватель, переворачиваете её посередине и слушаете музыку сторона за стороной. Это издание станет хорошим дополнением к коллекции для поклонников Coldplay и всех, кто ценит живое звучание на аналоговом носителе.</p><p><b>Треклист:</b><br>A1 - A Head Full Of Dreams<br>A2 - Birds<br>A3 - Hymn For The Weekend<br>A4 - Everglow<br>A5 - Adventure Of A Lifetime<br>A6 - Fun<br>B1 - Kaleidoscope<br>B2 - Army Of One<br>B3 - Amazing Day<br>B4 - Colour Spectrum<br>B5 - Up &amp; Up</p>]]></description>
-    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>A Head Full Of Dreams від Coldplay - це альбом, у якому британський гурт звучить яскраво, святково й відкрито. Цю платівку випустив лейбл Parlophone, а носій датований 2024 роком. На стороні A зібрано заголовний трек, Birds, Hymn For The Weekend, Everglow, Adventure Of A Lifetime та Fun, а сторона B продовжує історію композиціями Kaleidoscope, Army Of One, Amazing Day, Colour Spectrum та Up &amp; Up.</p><p>Це музика для тих, хто любить широкі мелодії, світлі приспіви та емоційні кульмінації. Треки тут переходять один в одного, тож альбом добре слухати цілком, від першої до останньої композиції: від енергійного відкриття до урочистого фіналу.</p><p>Вініл - формат, у якому такий альбом розкривається найкраще: ви ставите платівку на програвач, перегортаєте її посередині й слухаєте музику сторона за стороною. Це видання стане гарним доповненням до колекції для шанувальників Coldplay і всіх, хто цінує живе звучання на аналоговому носії.</p><p><b>Треклист:</b><br>A1 - A Head Full Of Dreams<br>A2 - Birds<br>A3 - Hymn For The Weekend<br>A4 - Everglow<br>A5 - Adventure Of A Lifetime<br>A6 - Fun<br>B1 - Kaleidoscope<br>B2 - Army Of One<br>B3 - Amazing Day<br>B4 - Colour Spectrum<br>B5 - Up &amp; Up</p>]]></description_ua>
-    <keywords>Coldplay – A Head Full Of Dreams, Coldplay A Head Full Of Dreams, Coldplay, A Head Full Of Dreams, A Head Full Of Dreams Coldplay, Coldplay A Head Full Of Dreams на вінілі, Coldplay на вінілі, вініл Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams вініл, платівка Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams платівка, вінілова платівка Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams вінілова платівка, вініл, платівка, вінілова платівка, Колдплей, Колдплей вініл, Колдплей платівка, coldplay, a head full of dreams, parlophone</keywords>
-    <keywords_ua>Coldplay – A Head Full Of Dreams, Coldplay A Head Full Of Dreams, Coldplay, A Head Full Of Dreams, A Head Full Of Dreams Coldplay, Coldplay A Head Full Of Dreams на вінілі, Coldplay на вінілі, вініл Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams вініл, платівка Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams платівка, вінілова платівка Coldplay A Head Full Of Dreams, Coldplay A Head Full Of Dreams вінілова платівка, вініл, платівка, вінілова платівка, Колдплей, Колдплей вініл, Колдплей платівка, coldplay, a head full of dreams, parlophone</keywords_ua>
-    <param name="Виробник">Coldplay</param>
-    <param name="Лейбл">Parlophone</param>
-    <param name="Рік видання">2024</param>
+    <barcode>602547973368</barcode>
+    <picture>https://balka-book.com/files/2025/11_25/14_10/u_files_store_21_32.jpg</picture>
+    <picture>https://balka-book.com/files/2025/11_25/14_10/u_files_store_21_33.jpg</picture>
+    <picture>https://balka-book.com/files/2025/11_25/14_10/u_files_store_21_34.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Views — альбом Drake, вышедший на лейбле Young Money. Это издание на виниле 2022 года: 20 треков разложены на четыре стороны (A, B, C, D). В треклисте есть хиты «One Dance», «Controlla», «Pop Style», «Feel No Ways» и «Faithful», а завершает четвёртую сторону бонус «Hotline Bling».</p><p>Пластинка сочетает хип-хоп и R&B с мелодичным, атмосферным звучанием. От бравады в «Hype» и «Weston Road Flows» она переходит к более мягким, лиричным моментам вроде «With You» или «Too Good». Для поклонников Drake это возможность слушать альбом на большом формате, с крупной обложкой и ритуалом переворачивания сторон.</p><p>Перед отправкой мы проверяем состояние каждой пластинки и обложки. Если вам нужны дополнительные фото или уточнения, напишите нам.</p><p>Треклист:<br>A1 - Keep The Family Close<br>A2 - 9<br>A3 - U With Me?<br>A4 - Feel No Ways<br>A5 - Hype<br>B1 - Weston Road Flows<br>B2 - Redemption<br>B3 - With You<br>B4 - Faithful<br>B5 - Still Here<br>C1 - Controlla<br>C2 - One Dance<br>C3 - Grammys<br>C4 - Childs Play<br>C5 - Pop Style<br>D1 - Too Good<br>D2 - Summers Over Interlude<br>D3 - Fire & Desire<br>D4 - Views<br>D5 - Hotline Bling (Bonus)</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Views — альбом Drake, який вийшов на лейблі Young Money. Це видання на вінілі 2022 року: 20 треків розкладені на чотири сторони (A, B, C, D). У треклисті є хіти «One Dance», «Controlla», «Pop Style», «Feel No Ways» і «Faithful», а завершує четверту сторону бонус «Hotline Bling».</p><p>Платівка поєднує хіп-хоп та R&B з мелодійним, атмосферним звучанням. Від бравади в «Hype» і «Weston Road Flows» вона переходить до м'якших, ліричніших моментів на кшталт «With You» чи «Too Good». Для прихильників Drake це можливість слухати альбом на великому форматі, з великою обкладинкою та ритуалом перегортання сторін.</p><p>Перед відправкою ми перевіряємо стан кожної платівки та обкладинки. Якщо вам потрібні додаткові фото чи уточнення, напишіть нам.</p><p>Треклист:<br>A1 - Keep The Family Close<br>A2 - 9<br>A3 - U With Me?<br>A4 - Feel No Ways<br>A5 - Hype<br>B1 - Weston Road Flows<br>B2 - Redemption<br>B3 - With You<br>B4 - Faithful<br>B5 - Still Here<br>C1 - Controlla<br>C2 - One Dance<br>C3 - Grammys<br>C4 - Childs Play<br>C5 - Pop Style<br>D1 - Too Good<br>D2 - Summers Over Interlude<br>D3 - Fire & Desire<br>D4 - Views<br>D5 - Hotline Bling (Bonus)</p>]]></description_ua>
+    <keywords>Drake – Views, Drake Views, Drake, Views, Views Drake, Drake Views на вінілі, Drake на вінілі, вініл Drake Views, Drake Views вініл, платівка Drake Views, Drake Views платівка, вінілова платівка Drake Views, Drake Views вінілова платівка, вініл, платівка, вінілова платівка, Дрейк, Дрейк вініл, Дрейк платівка, drake, views, young money</keywords>
+    <keywords_ua>Drake – Views, Drake Views, Drake, Views, Views Drake, Drake Views на вінілі, Drake на вінілі, вініл Drake Views, Drake Views вініл, платівка Drake Views, Drake Views платівка, вінілова платівка Drake Views, Drake Views вінілова платівка, вініл, платівка, вінілова платівка, Дрейк, Дрейк вініл, Дрейк платівка, drake, views, young money</keywords_ua>
+    <param name="Виробник">Drake</param>
+    <param name="Лейбл">Young Money</param>
+    <param name="Рік видання">2022</param>
     <param name="Носій інформації">Вінілова платівка</param>
-    <param name="Жанр">Rock/Pop</param>
+    <param name="Жанр">Hip Hop/R&amp;B</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">2</param>
+    <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="dio-the-last-in-line" available="true">
+    <name>Dio – The Last In Line (LP, Vinyl, Reissue, Remastered)</name>
+    <name_ua>Dio – The Last In Line (LP, Vinyl, Reissue, Remastered)</name_ua>
+    <categoryId>153227710</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>602507369248</barcode>
+    <picture>https://balka-book.com/files/2024/09_11/10_58/u_files_store_21_33.jpg</picture>
+    <picture>https://balka-book.com/files/2024/09_11/10_58/u_files_store_21_34.jpg</picture>
+    <picture>https://balka-book.com/files/2024/09_11/10_58/u_files_store_21_35.jpg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>The Last In Line от Dio на виниле, выпущенном лейблом Vertigo в 2021 году. Это альбом для тех, кто любит тяжёлую классику в большом формате, с обложкой, которую приятно держать в руках, и живым звучанием, которое раскрывается именно на пластинке.</p><p>Здесь хард-рок и хеви-метал: мощные риффы, драматичная подача и песни, которые легко запоминаются. Альбом открывает «We Rock», дальше идёт заглавный трек «The Last In Line» почти на шесть минут. Завершает вторую сторону «Egypt ( The Chains Are On )» длительностью более семи минут.</p><p>Пластинка состоит из двух сторон и девяти композиций: примерно 23 минуты на стороне A и около 19 на стороне B. Слушайте сторону за стороной, как это задумано в виниловом формате. Такая пластинка станет сильным дополнением к подборке рок- и метал-винила.</p><p>Треклист:<br>A1 - We Rock<br>A2 - The Last In Line<br>A3 - Breathless<br>A4 - I Speed At Night<br>A5 - One Night In The City<br>B1 - Evil Eyes<br>B2 - Mystery<br>B3 - Eat Your Heart Out<br>B4 - Egypt ( The Chains Are On )</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>The Last In Line від Dio на вінілі, виданому лейблом Vertigo у 2021 році. Це альбом для тих, хто любить важку класику у великому форматі, з обкладинкою, яку приємно тримати в руках, і живим звучанням, яке розкривається саме на платівці.</p><p>Тут хард-рок і хеві-метал: потужні рифи, драматична подача і пісні, що легко запам'ятовуються. Альбом відкриває «We Rock», далі йде заголовний трек «The Last In Line» на майже шість хвилин. Завершує другу сторону «Egypt ( The Chains Are On )» тривалістю понад сім хвилин.</p><p>Платівка складається з двох сторін і дев'яти композицій: приблизно 23 хвилини на стороні A і близько 19 на стороні B. Слухайте сторону за стороною, як це задумано у вінільному форматі. Така платівка стане сильним доповненням до добірки рок- і метал-вінілу.</p><p>Треклист:<br>A1 - We Rock<br>A2 - The Last In Line<br>A3 - Breathless<br>A4 - I Speed At Night<br>A5 - One Night In The City<br>B1 - Evil Eyes<br>B2 - Mystery<br>B3 - Eat Your Heart Out<br>B4 - Egypt ( The Chains Are On )</p>]]></description_ua>
+    <keywords>Dio – The Last In Line, Dio The Last In Line, Dio, The Last In Line, The Last In Line Dio, Dio The Last In Line на вінілі, Dio на вінілі, вініл Dio The Last In Line, Dio The Last In Line вініл, платівка Dio The Last In Line, Dio The Last In Line платівка, вінілова платівка Dio The Last In Line, Dio The Last In Line вінілова платівка, вініл, платівка, вінілова платівка, Діо, Діо вініл, Діо платівка, dio, the last in line, vertigo</keywords>
+    <keywords_ua>Dio – The Last In Line, Dio The Last In Line, Dio, The Last In Line, The Last In Line Dio, Dio The Last In Line на вінілі, Dio на вінілі, вініл Dio The Last In Line, Dio The Last In Line вініл, платівка Dio The Last In Line, Dio The Last In Line платівка, вінілова платівка Dio The Last In Line, Dio The Last In Line вінілова платівка, вініл, платівка, вінілова платівка, Діо, Діо вініл, Діо платівка, dio, the last in line, vertigo</keywords_ua>
+    <param name="Виробник">Dio</param>
+    <param name="Лейбл">Vertigo</param>
+    <param name="Рік видання">2021</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Rock</param>
     <param name="Стан">Новий</param>
     <param name="К-сть носіїв">1</param>
     <param name="Упаковка">Конверт</param>
+    <dimensions>
+      <weight unit="kg">0.5</weight>
+      <width unit="cm">33.0</width>
+      <height unit="cm">3.0</height>
+      <length unit="cm">33.0</length>
+    </dimensions>
+  </offer>
+  <offer id="14590709" available="true">
+    <name>Depeche Mode – Violator (LP, Vinyl, Gatefold, Reissue, Remastered)</name>
+    <name_ua>Depeche Mode – Violator (LP, Vinyl, Gatefold, Reissue, Remastered)</name_ua>
+    <categoryId>153143973</categoryId>
+    <price>199</price>
+    <currencyId>UAH</currencyId>
+    <barcode>889853367511</barcode>
+    <picture>https://i.discogs.com/7z2Ar1S3j1N1NadWxlkKPIZPmNFsTr7fYfeLmX_AgQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE1ODgzNDgx/NzAtNTYxMS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/R8hiOwKm-TpS_uQMa0bXll5OoG2g2EdhVxFhoGgAdgQ/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE2OTUwMjA5/NDUtODE2MS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/CLNIhu4TPkYQF7ekfbP68tNZ9rwn38BiYjnp9hbF2KU/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE2OTUwMjA5/NDUtOTY3Ni5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/rnql91jQrZwRmhWXN1sIxzoITltK8hkvH5sWaqNOOXk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE1Nzc3MzU4/ODctNDYwMi5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/BbCW-YC3y71qC75-dm3nthsMnHDacdLGjbu9taa277s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE1Nzc3MzU4/ODctNTY2MS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/GisiPb1wwlYFMrRI775d5sTAKgtbW1SNqRQtSbYdbp8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE2OTUwMjA5/NDUtOTgyOC5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/60P3ofajNjcnDbrJjHr9C5ByUjymQwO59roHI6GjoKw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE2OTUwMjA5/NDYtOTUwMS5qcGVn.jpeg</picture>
+    <picture>https://i.discogs.com/Mpal0u5eB1Zi0cYxc3F65j_RDyhh354PmSiKIQKFiBU/rs:fit/g:sm/q:90/h:488/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTkw/NzA5LTE2OTUwMjA5/NDQtMjAzOS5qcGVn.jpeg</picture>
+    <description><![CDATA[<p><b>Фирменная виниловая пластинка (Vinyl)</b></p><p>Violator — альбом Depeche Mode, записанный в составе, где были Дэйв Гаан, Мартин Гор, Эндрю Флетчер и Алан Уайлдер. Все треки написал Мартин Л. Гор, а продюсировали альбом сама группа вместе с Flood. Сведением занимался François Kevorkian. Материал записывали и сводили в Logic Studios (Милан), Puk Studios (Дания), The Church и Master Rock Studios (Лондон) и Axis (Нью-Йорк). Здесь на одной пластинке собраны World In My Eyes, Personal Jesus, Enjoy The Silence, Policy Of Truth и другие треки.</p><p>Стиль — synth-pop с оттенками new wave и alternative rock. Холодные синтезаторные фактуры соседствуют с гитарными ходами, а меланхоличные мелодии с плотной, почти кинематографичной атмосферой. Это электронная музыка с характером, которая хорошо звучит и на больших колонках, и поздним вечером в наушниках.</p><p>Это европейское переиздание 2016 года на лейблах Legacy, Mute и Sony Music. Мастеринг (Remastered By) выполнил Simon Heyworth. Раскладная обложка gatefold и внутренний конверт имеют матовое водное (aqueous) покрытие, а на внутреннем конверте напечатаны тексты песен. Дизайн обложки и фотографии — Anton Corbijn. Роза на лицевой стороне показана в несколько меньшем масштабе, чем на более старых изданиях. Пластинка сделана в ЕС.</p><p>Треклист:<br>A1 - World In My Eyes<br>A2 - Sweetest Perfection<br>A3 - Personal Jesus<br>A4 - Halo<br>A5 - Waiting For The Night<br>B1 - Enjoy The Silence<br>B2 - Policy Of Truth<br>B3 - Blue Dress<br>B4 - Clean</p>]]></description>
+    <description_ua><![CDATA[<p><b>Фірмова вінілова платівка (Vinyl)</b></p><p>Violator — альбом Depeche Mode, записаний у складі, де були Дейв Гаан, Мартін Гор, Ендрю Флетчер та Алан Вайлдер. Усі треки написав Мартін Л. Гор, а продюсували альбом сама група разом із Flood. Зводив François Kevorkian. Матеріал записували й зводили в Logic Studios (Мілан), Puk Studios (Данія), The Church та Master Rock Studios (Лондон) і Axis (Нью-Йорк). Тут на одній платівці зібрані World In My Eyes, Personal Jesus, Enjoy The Silence, Policy Of Truth та інші треки.</p><p>Стиль — synth-pop із відтінками new wave та alternative rock. Холодні синтезаторні фактури сусідять із гітарними ходами, а меланхолійні мелодії з густою, майже кінематографічною атмосферою. Це електронна музика з характером, яка добре звучить і на великих колонках, і пізно ввечері у навушниках.</p><p>Це європейське перевидання 2016 року на лейблах Legacy, Mute та Sony Music. Мастеринг (Remastered By) зробив Simon Heyworth. Розкладна обкладинка gatefold та внутрішній конверт мають матове водне (aqueous) покриття, а на внутрішньому конверті надруковані тексти пісень. Дизайн обкладинки та фотографії — Anton Corbijn. Троянда на лицьовій стороні тут показана в дещо меншому масштабі, ніж на старіших виданнях. Платівка зроблена в ЄС.</p><p>Треклист:<br>A1 - World In My Eyes<br>A2 - Sweetest Perfection<br>A3 - Personal Jesus<br>A4 - Halo<br>A5 - Waiting For The Night<br>B1 - Enjoy The Silence<br>B2 - Policy Of Truth<br>B3 - Blue Dress<br>B4 - Clean</p>]]></description_ua>
+    <keywords>Depeche Mode – Violator, Depeche Mode Violator, Depeche Mode, Violator, Violator Depeche Mode, Depeche Mode Violator на вінілі, Depeche Mode на вінілі, вініл Depeche Mode Violator, Depeche Mode Violator вініл, платівка Depeche Mode Violator, Depeche Mode Violator платівка, вінілова платівка Depeche Mode Violator, Depeche Mode Violator вінілова платівка, вініл, платівка, вінілова платівка, Депеш Мод, Депеш Мод вініл, Депеш Мод платівка, depeche mode, violator, legacy, mute, sony music, Electronic, Rock, Synth-pop, Alternative Rock, New Wave</keywords>
+    <keywords_ua>Depeche Mode – Violator, Depeche Mode Violator, Depeche Mode, Violator, Violator Depeche Mode, Depeche Mode Violator на вінілі, Depeche Mode на вінілі, вініл Depeche Mode Violator, Depeche Mode Violator вініл, платівка Depeche Mode Violator, Depeche Mode Violator платівка, вінілова платівка Depeche Mode Violator, Depeche Mode Violator вінілова платівка, вініл, платівка, вінілова платівка, Депеш Мод, Депеш Мод вініл, Депеш Мод платівка, depeche mode, violator, legacy, mute, sony music, Electronic, Rock, Synth-pop, Alternative Rock, New Wave</keywords_ua>
+    <param name="Виробник">Depeche Mode</param>
+    <param name="Лейбл">Legacy, Mute, Sony Music</param>
+    <param name="Рік видання">2016</param>
+    <param name="Носій інформації">Вінілова платівка</param>
+    <param name="Жанр">Electronic/Rock/Pop</param>
+    <param name="Стан">Новий</param>
+    <param name="К-сть носіїв">1</param>
+    <param name="Упаковка">Конверт</param>
+    <param name="Особливості видання">Розкладна обкладинка (gatefold) і внутрішній конверт із матовим водним (aqueous) покриттям; європейське перевидання 2016 року, ремастер Simon Heyworth</param>
     <dimensions>
       <weight unit="kg">0.5</weight>
       <width unit="cm">33.0</width>
